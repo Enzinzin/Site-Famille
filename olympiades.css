@@ -1,0 +1,43 @@
+nav {
+    width: 100%;
+}
+
+.textnav {
+    float: right;
+    margin-top: 40px;
+    font-size: normal;
+}
+
+li {
+    color: rgb(8, 0, 0);
+    padding: 14px 16px;
+    display: inline-block;
+
+}
+
+li a {
+    color: black;
+}
+
+
+
+h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+table {
+    margin: auto;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+
+td,
+th {
+    border: 3px solid rgb(189, 24, 24);
+    background-color: white;
+    width: 200px;
+    height: 100px;
+    font-family: Montserrat;
+}
